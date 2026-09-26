@@ -2,7 +2,7 @@
 
 Full-Stack Developer building real, production-used systems — not just tutorial projects.
 
-🔭 Currently building: **Dhyaan Command Center** — a full-stack ERP/CRM platform for a real estate brokerage, in daily production use  
+🔭 Built: **Dhyaan Command Center** — a full-stack ERP/CRM platform for a real estate brokerage, now in daily production use 
 🤖 Also built: **Dhyaan Voice Brain** — an AI-powered outbound calling system for automated lead verification  
 🌱 Self-taught developer, learning by shipping real systems for real users  
 💬 Ask me about: Node.js, Express, PostgreSQL, REST APIs, AI/LLM integration  
