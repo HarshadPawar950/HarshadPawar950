@@ -2,9 +2,12 @@
 
 Full-Stack Developer building real, production-used systems — not just tutorial projects.
 
-🔭 Built: **Dhyaan Command Center** — a full-stack ERP/CRM platform for a real estate brokerage, now in daily production use 
-🤖 Also built: **Dhyaan Voice Brain** — an AI-powered outbound calling system for automated lead verification  
+🔭 Built: **Dhyaan Command Center** — a full-stack ERP/CRM platform for a real estate brokerage, now in daily production use
+
+🤖 Also built: **Dhyaan Voice Brain** — an AI-powered outbound calling system for automated lead verification 
+
 🌱 Self-taught developer, learning by shipping real systems for real users  
+
 💬 Ask me about: Node.js, Express, PostgreSQL, REST APIs, AI/LLM integration  
 📫 Reach me: pawarharshad950@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/harshad-pawar-101958300](https://linkedin.com/in/harshad-pawar-101958300)
